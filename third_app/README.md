@@ -1,6 +1,6 @@
 # third_app
 
-A new Flutter project.
+Stateful DEMO
 
 ## Getting Started
 

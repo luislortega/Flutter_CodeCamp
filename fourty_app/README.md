@@ -1,6 +1,6 @@
-# second_app
+# fourty_app
 
-Stateless DEMO
+A new Flutter project.
 
 ## Getting Started
 
