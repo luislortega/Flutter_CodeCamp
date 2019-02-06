@@ -1,6 +1,6 @@
 # fourty_app
 
-A new Flutter project.
+Alignment, Style & Colors Demo
 
 ## Getting Started
 
