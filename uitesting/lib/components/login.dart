@@ -23,7 +23,7 @@ class LoginPage extends StatelessWidget {
                 children: <Widget>[
                   new Padding(
                     padding: const EdgeInsets.only(top: 40.0, bottom: 10.0),
-                    child: new Text("Quick bee",
+                    child: new Text("UI FLUTTER",
                         style: new TextStyle(fontSize: 30.0)),
                   )
                 ],
