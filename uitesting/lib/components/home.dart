@@ -187,6 +187,9 @@ class _MainContent extends StatelessWidget {
                     )
                   ],
                 )
+                ,new SizedBox(
+                  height: 20.0,
+                )
               ],
             ),
           ),
