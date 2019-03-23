@@ -189,7 +189,18 @@ class _MainContent extends StatelessWidget {
                 )
                 ,new SizedBox(
                   height: 20.0,
+                ),
+                Row(
+                  children: <Widget>[
+                    new Expanded(
+                      child: new Text("Popular trendings", style: new TextStyle(fontSize: 20.0),),
+                    ),
+                    new Expanded(
+                      child: new Text("View all", style: new TextStyle(fontSize: 20.0, color: new Color(0xFF2BD093)), textAlign: TextAlign.end,),
+                    )
+                  ],
                 )
+                
               ],
             ),
           ),
