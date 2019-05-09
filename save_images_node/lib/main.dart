@@ -34,7 +34,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   File imageFile;
   final scaffoldKey = new GlobalKey<ScaffoldState>();
-  static const baseUrl = "http://192.168.9.2:3000";
+  static const baseUrl = "http://192.168.0.3:3000";
 
   @override
   Widget build(BuildContext context) {
@@ -117,7 +117,9 @@ class _MyHomePageState extends State<MyHomePage> {
         context: context,
         builder: (BuildContext context) {
           return new Center(
-            child: new CircularProgressIndicator(),
+            child: new CircularProgressIndicator(
+              
+            ),
           );
         },
         barrierDismissible: false);
