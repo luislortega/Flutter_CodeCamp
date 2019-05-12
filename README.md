@@ -1,4 +1,4 @@
-# Flutter_CodeTraining
+# Flutter_CodeCamp
 A hub of my work with Flutter SDK
 
 #Concept of Stateless and Stateful widget by Luis Leon
